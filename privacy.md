@@ -5,8 +5,8 @@ title: Privacy Policy — Smart Shop ES
 # Privacy Policy — Smart Shop ES
 
 **Publisher:** EMNY Tech  
-**Contact:** erezsecly@gmail.com  
-**Last updated:** April 22, 2026
+**Contact:** support.emnytech@gmail.com  
+**Last updated:** April 23, 2026
 
 ## 1. Who we are
 Smart Shop ES ("the App") is developed by EMNY Tech. This policy explains what information the App collects, how it is used, and your rights.
@@ -47,7 +47,7 @@ You may:
 - View and edit all your data directly from the App
 - Export your data using the Backup feature in Settings
 - Delete any item, list, or archive at any time
-- Request full account deletion by emailing erezsecly@gmail.com
+- Request full account deletion by emailing support.emnytech@gmail.com
 
 EU/UK users have rights under GDPR; Israeli users have rights under the Protection of Privacy Law, 1981. Contact us to exercise them.
 
@@ -58,4 +58,4 @@ The App is not directed to children under 13 (or 16 in the EU).
 We may update this policy. The "Last updated" date above will change accordingly.
 
 ## 9. Contact
-**EMNY Tech** — erezsecly@gmail.com
+**EMNY Tech** — support.emnytech@gmail.com
