@@ -51,6 +51,49 @@ You may:
 
 EU/UK users have rights under GDPR; Israeli users have rights under the Protection of Privacy Law, 1981. Contact us to exercise them.
 
+<a id="data-deletion"></a>
+## 6a. Deleting some of your data (without deleting your account)
+You can delete portions of your data without removing your account:
+
+**In-app deletion (immediate):**
+- **Individual list items** — tap the X next to any item, or long-press to delete multiple
+- **Whole shopping lists** — open a list → menu → Delete list
+- **Archived lists** — open Archive tab → swipe a list → Delete
+- **Expense entries** — open Expenses tab → tap an entry → Delete
+- **Saved prices** — open Prices tab → tap a price → Delete
+- **Stored API keys** — Settings → clear keys (if you previously entered your own)
+
+**By request (within 30 days):**
+For data we cannot delete from inside the app, send an email to **support.emnytech@gmail.com** with the subject line `Delete data — Smart Shop ES` and describe what you want removed (for example: "delete all my receipt scans" or "delete my expense history before 2026"). We will confirm by email within 7 days and complete the deletion within 30 days.
+
+The categories of data that can be deleted on request:
+- Authentication metadata (login timestamps)
+- Backup files you uploaded
+- Anonymous usage logs (Firebase operational only)
+
+Deleting partial data does **not** delete your account or other data — your remaining lists, settings, and login stay intact.
+
+<a id="account-deletion"></a>
+## 6b. Deleting your account
+To permanently delete your Smart Shop ES account and all associated data:
+
+1. Send an email to **support.emnytech@gmail.com**
+2. Use the subject line: `Delete account — Smart Shop ES`
+3. Include the email address you registered with so we can verify ownership
+
+**What gets deleted:**
+- Your authentication record (email, user ID)
+- All your shopping lists (active and archived)
+- All your expenses, saved prices, and store data
+- All backup files associated with your account
+- Any cached receipt images on Google Gemini / Groq (per their retention policies)
+
+**Timeline:** We will confirm receipt of your request within 48 hours and complete the deletion within 30 days, as required by GDPR and the Israeli Protection of Privacy Law. You will receive a confirmation email when deletion is complete.
+
+**What is retained:** None of your personal data. Aggregate, fully-anonymized statistics (e.g., "100 users scanned a receipt today") may remain but cannot be linked back to you.
+
+**Note:** Deleting your account is irreversible. If you only want to remove some data, see [section 6a](#data-deletion) above.
+
 ## 7. Children
 The App is not directed to children under 13 (or 16 in the EU).
 
